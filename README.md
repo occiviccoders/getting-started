@@ -13,3 +13,6 @@ We need leaders, organizers, and community!
 - Help organize events
 - Reach out to local community and government
 Please express your interest at our next [meetup](https://www.meetup.com/OC-Civic-Coders/)
+
+## How can we make this more helpful?
+Submit an issue for suggestions and improvements.
